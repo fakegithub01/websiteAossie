@@ -1,11 +1,10 @@
-
 # **AOSSIE's Website**
 
 This repository contains the assets required to build the **AOSSIE's website**. We're glad that you want to contribute!
 
 Contributions to the project are very much welcomed! Please reach out with ideas for new content or issues with existing content!
 
-Th website is a **Next.js** project using **Tailwind** for styling and design.
+The website is a **Next.js** project using **Tailwind** for styling and design.
 
 # **Getting Started**
 
@@ -18,18 +17,24 @@ Forking only needs to be done once, after which you can push changes to your for
 
 # **Running the website Locally**
 
-In order to run the site locally,
+In order to run the site locally:
 - Fork the website and clone that fork on your system
-- Open a terminal/command prompt window and change the current directory to the directory of the cloned fork on your system.
+- Open a terminal/command prompt window and change the current directory to the directory of the cloned fork on your system
 - In the root directory, you can run the following commands:
 
-```
-npm install
-npm run dev
-```
+  - Install the required dependencies by running the following command:
+
+    ```
+    npm install
+    ```
+
+  - Start the development server with the following command:
+
+    ```
+    npm run dev
+    ```
 
 The website will be active at **http://localhost:3000**.
-
 
 # **Contributing**
 
@@ -37,14 +42,12 @@ You can contribute by:
 
 * Raising any issues you find
 * Fixing issues by opening Pull Requests
-* Improving website
+* Improving the website
 * Talking about AOSSIE
-
 
 If you want to get in touch with us first before contributing, you can use:
 
 * [AOSSIE Discord Channel](https://discord.com/invite/6mFZ2S846n)
-
 
 # **License**
 
